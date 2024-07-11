@@ -1,0 +1,15 @@
+.checkin img{
+    width: 47px;
+    height: 50px;
+}
+
+.checkin a{
+    font-size: 14px;
+    font-weight: 400;
+    color: #1a0dbd;
+}
+
+.checkin{
+    display: flex ;
+    align-items: center;
+}
